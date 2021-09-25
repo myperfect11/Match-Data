@@ -3,4 +3,3 @@ Date=2021-09-25
 Match=DC vs RR
 Team1=DC,V Kohli-BT-10,D Padikkal-BT-9, KS Bharat-WK-8, G Maxwell-BT-9.5, AB Villiers-WK-10, W Hasaranga-AR-8.5, K Jamieson-BL-8.5, H Patel-BL-9, M Siraj-BL-8.5, Y Chahal-BL-8.5, N Saini-BL-8
 Team2=RR,F du Plessis-BT-9.5, R Gaikwad-BT-8.5, M Ali-AR-9.5, S Raina-BT-9, A Rayudu-BT-8.5, R Jadeja-AR-9.5, MS Dhoni-WK-8.5, D Bravo-AR-9, S Thakur-BL-8.5, D Chahar-BL-8.5, J Hazlewood-BL-8.5
-
