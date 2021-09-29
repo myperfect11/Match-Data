@@ -1,6 +1,14 @@
---------
-Date=2021-09-25
-Match=DC vs RR
-Team1=DC,V Kohli-BT-10,D Padikkal-BT-9, KS Bharat-WK-8, G Maxwell-BT-9.5, AB Villiers-WK-10, W Hasaranga-AR-8.5, K Jamieson-BL-8.5, H Patel-BL-9, M Siraj-BL-8.5, Y Chahal-BL-8.5, N Saini-BL-8
-Team2=RR,F du Plessis-BT-9.5, R Gaikwad-BT-8.5, M Ali-AR-9.5, S Raina-BT-9, A Rayudu-BT-8.5, R Jadeja-AR-9.5, MS Dhoni-WK-8.5, D Bravo-AR-9, S Thakur-BL-8.5, D Chahar-BL-8.5, J Hazlewood-BL-8.5
+Date=2021-09-28
+Match=KOL vs DC
+Team1=DC,R Pant-WK-10,S Billing-WK-8.0,S Dhawan-BT-10.0,P Shaw-BT-9.9,S Hetmyer-BT-8.5,	S Smith-BT-8.5,	S Iyer-BT-9.0,A Rahane-BT-8.5,V Vinod-BT-8.0,R Patel-BT-7.5,A Patel-AR-9.0,L Yadav-AR-8.0,M Stoinis-AR-8.5,A Khan-BL-8.5,K Rabada-BL-9.0,A Mishra-BL-8.5,A Nortje-BL-8.5,R Ashwin-BL-8.5,I Sharma-BL-8.5,T Curran-BL-8.0,L Meriwala-BL-8.0,U Yadav-BL-8.5,B Dwarshui-BL-8.0,P Dubey-BL-8.0,K Khejoroliya-BL-8.0
+Team2=KOL,D Karthik-WK-8.5,S Jackson-WK-8.0,T Seifert-WK-8.0,R Tripathi-BT-8.5,N Rana-BT-9.0,S Gill-BT-9.0,E Morgon-BT-8.5,V Iyer-BT-8.5,K Nair-BT-8.0,G S Mann-BT-8.0,A Russell-AR-10.5,S Narine-AR-9.0,S A Hasan-AR-9.0,B Cutting-AR-8.5,V Chakravarthy-BL-8.5,P Krishna-BL-8.5,L Ferguson-BL-8.5,S Mavi-BL-8.0,H Singh-BL-8.0,T Southee-BL-8.5,P Negi-BL-8.0,S Warrier-BL-8.0,K Yadav-BL-8.0,V Arora-BL-7.5,K Nagarkoti-BL-8.0
 
+Date=2021-09-28
+Match=MI vs PBKS
+Team1=MI,Q d Kock-WK-9.5,I Kishan-WK-8.5,A Tare-WK-8.0,R Sharma-BT-10.0,K Pollard-BT-9.0,S Yadav-BT-9.0,C Lynn-BT-8.5,S Tiwary-BT-8.0,A Singh-BT-8.0,J Neesham-AR-8.5,H Pandya-AR-8.5,K Pandya-AR-8.5,A S Roy-AR-8.0,A Tendulkar-AR-7.5,T Boult-BL-9.0,J Bumrah-BL-9.0,A Milne-BL-8.5,R Chahar-BL-8.5,R Kalaria-BL-8.0,P Chawla-BL-8.0,D Kulkarni-BL-8.0,N Coulter Nile-BL-8.0,J Yadav-BL-8.0,M Jansen-BL-8.0,Y S Charak-BL-7.5
+Team2=PBKS,L Rahul-WK-11.0,N Pooran-WK-8.5,P Singh-WK-8.0,M Agarwal-BT-9.5,C Gayle-BT-9.0,A Markram-BT-8.5,S Khan-BT-8.0,S Khan-BT-8.0,M Singh-BT-8.0,D Hooda-AR-8.5,F Allen-AR-8.5,M Henriques-AR-8.0,J Saxena-AR-8.0,U Singh-AR-8.0,M Shami-BL-9.0,A Rashid-BL-8.5,C Jordan-BL-8.5,A Singh-BL-8.5,R Bishnoi-BL-8.5,H Brar-BL-8.5,S Kumar-BL-8.0,M Ashwin-BL-8.0,I Porel-BL-8.0,D Nalkande-BL-8.0,N Ellis-BL-8.0
+
+Date=2021-09-29
+Match=RR vs BLR
+Team1=RR,S Samson-WK-10.0,A Rawat-WK-8.0,L Livingstone-BT-9.0,E Lewis-BT-9.0,Y Jaiswal-BT-8.5,R Parag-BT-8.5,G Phillips-BT-8.5,D Miller-BT-8.5,M Lomror-BT-8.0,M Vohra-BT-8.0,C Morris-AR-9.5,R Tewatia-AR-9.0,S Dube-AR-8.5,M Rahman-BL-9.0,C Sakariya-BL-8.5,K Tyagi-BL-8.5,T Shamsi-BL-8.5,S Gopal-BL-8.5,J Unadkat-BL-8.5,A Singh-BL-8.0,M Markande-BL-8.0,O Thomas-BL-8.0,K Cariappa-BL-8.0,K Yadav-BL-7.5
+Team2=BLR,M Azharuddeen-WK-8.0,K Srikar Bharat-WK-8.0,V Kohli-BT-10.0,A d Villiers-BT-10.0,D Padikkal-BT-9.0,T David-BT-8.5,S Prabhudessai-BT-8.0,P Deshpande-BT-8.0,R Patidar-BT-8.0,S Baby-BT-8.0,G Maxwell-AR-9.5,W Hasaranga-AR-8.5,S Ahmed-AR-8.0,D Christian-AR-8.0,H Patel-BL-9.5,M Siraj-BL-8.5,K Jamieson-BL-8.5,Y Chahal-BL-8.5,A Deep-BL-8.0,N Saini-BL-8.0,G Garton-BL-8.0,D Chameera-BL-8.0
