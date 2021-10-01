@@ -1,3 +1,9 @@
+Date=2021-10-01
+Match=KOL vs PBKS
+Team1=KOL,D Karthik-WK-8.5,T Seifert-WK-8.0,S Jackson-WK-8.0,S Gill-BT-9.0,N Rana-BT-9.0,R Tripathi-BT-8.5,E Morgan-BT-8.5,G S Mann-BT-8.0,K Nair-BT-8.0,A Russell-AR-10.0,S Narine-AR-9.5,S A Hasan-AR-9.0,V Iyer-AR-8.5,B Cutting-AR-8.5,V Chakravarthy-BL-8.5,L Ferguson-BL-8.5,P Krishna-BL-8.5,T Southee-BL-8.5,S Mavi-BL-8.0,K Nagarkoti-BL-8.0,K Yadav-BL-8.0,S Warrier-BL-8.0,P Negi-BL-8.0,H Singh-BL-8.0,V Arora-BL-7.5
+Team2=PBKS,L Rahul-WK-11.0,N Pooran-WK-8.5,P Singh-WK-8.0,M Agarwal-BT-9.5,C Gayle-BT-9.0,A Markram-BT-8.5,M Singh-BT-8.0,S Khan-BT-8.0,S Khan-BT-8.0,F Allen-AR-8.5,D Hooda-AR-8.5,U Singh-AR-8.0,J Saxena-AR-8.0,M Henriques-AR-8.0,M Shami-BL-9.0,H Brar-BL-8.5,R Bishnoi-BL-8.5,A Singh-BL-8.5,C Jordan-BL-8.5,A Rashid-BL-8.5,N Ellis-BL-8.0,D Nalkande-BL-8.0,I Porel-BL-8.0,M Ashwin-BL-8.0,S Kumar-BL-8.0
+
+
 Date=2021-09-28
 Match=KOL vs DC
 Team1=DC,R Pant-WK-10,S Billing-WK-8.0,S Dhawan-BT-10.0,P Shaw-BT-9.9,S Hetmyer-BT-8.5,	S Smith-BT-8.5,	S Iyer-BT-9.0,A Rahane-BT-8.5,V Vinod-BT-8.0,R Patel-BT-7.5,A Patel-AR-9.0,L Yadav-AR-8.0,M Stoinis-AR-8.5,A Khan-BL-8.5,K Rabada-BL-9.0,A Mishra-BL-8.5,A Nortje-BL-8.5,R Ashwin-BL-8.5,I Sharma-BL-8.5,T Curran-BL-8.0,L Meriwala-BL-8.0,U Yadav-BL-8.5,B Dwarshui-BL-8.0,P Dubey-BL-8.0,K Khejoroliya-BL-8.0
