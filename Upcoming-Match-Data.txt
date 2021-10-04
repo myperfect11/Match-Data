@@ -1,3 +1,8 @@
+Date=2021-10-04
+Match=DC vs CSK
+Team1=DC,R Pant (PLM)-WK-9.5,S Smith (PLM)-BT-8.5,S Iyer (PLM)-BT-9.0,S Hetmyer (PLM)-BT-8.5,S Dhawan (PLM)-BT-10.0,P Shaw (PLM)-BT-8.5,A Patel (PLM)-AR-9.0,R Ashwin (PLM)-BL-8.5,K Rabada (PLM)-BL-9.0,A Khan (PLM)-BL-9.0,A Nortje (PLM)-BL-8.5,S Billings-WK-8.0,V Vinod-BT-8.0,R Patel-BT-7.5,A Rahane-BT-8.5,M Stoinis-AR-8.5,L Yadav-AR-8.0,U Yadav-BL-8.5,T Curran-BL-8.0,P Dubey-BL-8.0,L Meriwala-BL-8.0,K Khejroliya-BL-8.0,I Sharma-BL-8.5,B Dwarshuis-BL-8.0,A Mishra-BL-8.5
+Team2=CSK,M Dhoni (PLM)-WK-8.5,S Raina (PLM)-BT-8.5,R Gaikwad (PLM)-BT-9.0,F d Plessis (PLM)-BT-10.5,A Rayudu (PLM)-BT-8.5,S Curran (PLM)-AR-8.5,R Jadeja (PLM)-AR-9.5,M Ali (PLM)-AR-9.0,S Thakur (PLM)-BL-8.5,K Asif (PLM)-BL-8.0,J Hazlewood (PLM)-BL-8.5,N Jagadeesan-WK-8.0,R Uthappa-BT-8.0,C Pujara-BT-8.0,C H Nishanth-BT-8.0,M Santner-AR-8.0,K Gowtham-AR-8.0,D Bravo-AR-9.0,B Varma-AR-7.5,R S Kishore-BL-8.0,L Ngidi-BL-8.5,K Sharma-BL-8.0,I Tahir-BL-8.5,H Reddy-BL-8.0,D Chahar-BL-8.5
+
 Date=2021-10-03
 Match=BLR vs PBKS
 Team1=BLR,K Srikar Bharat (PLM)-WK-8.5,V Kohli (PLM)-BT-10.0,A d Villiers (PLM)-BT-9.5,D Padikkal (PLM)-BT-9.0,G Maxwell (PLM)-AR-10.0,S Ahmed (PLM)-AR-8.0,D Christian (PLM)-AR-8.0,H Patel (PLM)-BL-9.5,Y Chahal (PLM)-BL-9.0,M Siraj (PLM)-BL-8.5,G Garton (PLM)-BL-8.0,M Azharuddeen-WK-8.0,T David-BT-8.5,S Prabhudessai-BT-8.0,P Deshpande-BT-8.0,R Patidar-BT-8.0,S Baby-BT-8.0,W Hasaranga-AR-8.5,K Jamieson-BL-8.5,A Deep-BL-8.0,N Saini-BL-8.0,D Chameera-BL-8.0
