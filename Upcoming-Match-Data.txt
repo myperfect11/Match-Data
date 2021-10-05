@@ -1,3 +1,8 @@
+Date=2021-10-05
+Match=RR vs MI
+Team1=RR,S Samson (PLM)-WK-10.0,E Lewis (PLM)-BT-9.5,Y Jaiswal (PLM)-BT-9.0,G Phillips (PLM)-BT-8.5,D Miller (PLM)-BT-8.5,S Dube (PLM)-AR-8.5,R Tewatia (PLM)-AR-8.5,M Rahman (PLM)-BL-9.0,C Sakariya (PLM)-BL-8.5,A Singh (PLM)-BL-8.0,M Markande (PLM)-BL-8.0,A Rawat-WK-8.0,L Livingstone-BT-9.0,R Parag-BT-8.0,M Vohra-BT-8.0,C Morris-AR-9.0,M Lomror-AR-8.0,K Tyagi-BL-8.5,T Shamsi-BL-8.5,S Gopal-BL-8.5,J Unadkat-BL-8.5,O Thomas-BL-8.0,K Cariappa-BL-8.0,K Yadav-BL-7.5
+Team2=MI,Q d Kock (PLM)-WK-9.5,R Sharma (PLM)-BT-10.0,S Yadav (PLM)-BT-9.0,H Pandya (PLM)-BT-8.5,S Tiwary (PLM)-BT-8.0,K Pollard (PLM)-AR-9.0,K Pandya (PLM)-AR-8.5,J Bumrah (PLM)-BL-9.5,T Boult (PLM)-BL-9.0,J Yadav (PLM)-BL-8.0,N Coulter Nile (PLM)-BL-8.0,I Kishan-WK-8.5,A Tare-WK-8.0,C Lynn-BT-8.5,A Singh-BT-8.0,J Neesham-AR-8.5,A S Roy-AR-8.0,R Chahar-BL-8.5,A Milne-BL-8.5,M Jansen-BL-8.0,R Kalaria-BL-8.0,D Kulkarni-BL-8.0,P Chawla-BL-8.0,Y S Charak-BL-7.5,S Singh-BL-7.5
+
 Date=2021-10-04
 Match=DC vs CSK
 Team1=DC,R Pant (PLM)-WK-9.5,S Smith (PLM)-BT-8.5,S Iyer (PLM)-BT-9.0,S Hetmyer (PLM)-BT-8.5,S Dhawan (PLM)-BT-10.0,P Shaw (PLM)-BT-8.5,A Patel (PLM)-AR-9.0,R Ashwin (PLM)-BL-8.5,K Rabada (PLM)-BL-9.0,A Khan (PLM)-BL-9.0,A Nortje (PLM)-BL-8.5,S Billings-WK-8.0,V Vinod-BT-8.0,R Patel-BT-7.5,A Rahane-BT-8.5,M Stoinis-AR-8.5,L Yadav-AR-8.0,U Yadav-BL-8.5,T Curran-BL-8.0,P Dubey-BL-8.0,L Meriwala-BL-8.0,K Khejroliya-BL-8.0,I Sharma-BL-8.5,B Dwarshuis-BL-8.0,A Mishra-BL-8.5
