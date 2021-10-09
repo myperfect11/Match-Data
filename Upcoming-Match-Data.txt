@@ -1,3 +1,9 @@
+Date=2021-10-10
+Match=DC vs CSK
+Team1=DC,R Pant-WK-9.5,S Billings-WK-8.0,S Dhawan-BT-10.0,P Shaw-BT-8.5,S Hetmyer-BT-8.5,S Iyer-BT-8.5,S Smith-BT-8.5,A Rahane-BT-8.5,R Patel-BT-8.0,V Vinod-BT-8.0,A Patel-AR-9.0,M Stoinis-AR-8.5,L Yadav-AR-8.0,K Rabada-BL-9.0,A Khan-BL-9.0,A Nortje-BL-8.5,U Yadav-BL-8.5,R Ashwin-BL-8.5,A Mishra-BL-8.5,I Sharma-BL-8.5,L Meriwala-BL-8.0,K Khejroliya-BL-8.0,P Dubey-BL-8.0,T Curran-BL-8.0,B Dwarshuis-BL-8.0
+Team2=CSK,M Dhoni-WK-8.5,N Jagadeesan-WK-8.0,F d Plessis-BT-10.0,R Gaikwad-BT-9.5,A Rayudu-BT-8.5,S Raina-BT-8.5,C H Nishanth-BT-8.0,C Pujara-BT-8.0,R Uthappa-BT-8.0,R Jadeja-AR-9.5,M Ali-AR-9.0,D Bravo-AR-9.0,D Drakes-AR-8.0,K Gowtham-AR-8.0,M Santner-AR-8.0,B Varma-AR-7.5,S Thakur-BL-9.0,L Ngidi-BL-8.5,D Chahar-BL-8.5,I Tahir-BL-8.5,J Hazlewood-BL-8.5,H Reddy-BL-8.0,K Asif-BL-8.0,R S Kishore-BL-8.0,K Sharma-BL-8.0
+
+
 Date=2021-10-08
 Match=SRH vs MI
 Team1=SRH,W Saha (PLM)-WK-8.5,K Williamson (PLM)-BT-9.5,J Roy (PLM)-BT-9.0,A Samad (PLM)-BT-8.0,P Garg (PLM)-BT-8.0,J Holder (PLM)-AR-9.5,A Sharma (PLM)-AR-8.0,Rashid Khan (PLM)-BL-9.5,B Kumar (PLM)-BL-8.5,U Malik (PLM)-BL-8.0,S Kaul (PLM)-BL-8.0,S Goswami-WK-7.5,D Warner-BT-9.5,M Pandey-BT-9.0,S Rutherford-BT-8.0,V Singh-BT-8.0,K Jadhav-BT-8.0,M Nabi-AR-8.5,V Shankar-AR-8.0,Mujeeb ur Rahman-BL-8.5,T Natarajan-BL-8.5,K Ahmed-BL-8.5,S Sharma-BL-8.5,B Thampi-BL-8.0,J Suchith-BL-8.0,S Nadeem-BL-8.0
