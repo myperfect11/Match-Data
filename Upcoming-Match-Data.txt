@@ -1,3 +1,9 @@
+Date=2021-10-11
+Match=BLR vs KOL
+Team1=BLR,K Srikar Bharat (PLM)-WK-8.5,D Padikkal (PLM)-BT-9.5,V Kohli (PLM)-BT-9.5,A d Villiers (PLM)-BT-9.0,G Maxwell (PLM)-AR-10.0,S Ahmed (PLM)-AR-8.0,D Christian (PLM)-AR-8.0,H Patel (PLM)-BL-10.0,Y Chahal (PLM)-BL-9.0,M Siraj (PLM)-BL-8.5,G Garton (PLM)-BL-8.0,M Azharuddeen-WK-8.0,T David-BT-8.5,S Prabhudessai-BT-8.0,P Deshpande-BT-8.0,R Patidar-BT-8.0,S Baby-BT-8.0,W Hasaranga-AR-8.5,K Jamieson-BL-8.5,A Deep-BL-8.0,N Saini-BL-8.0,D Chameera-BL-8.0
+Team2=KOL,D Karthik (PLM)-WK-8.5,R Tripathi (PLM)-BT-9.0,N Rana (PLM)-BT-9.0,S Gill (PLM)-BT-8.5,E Morgan (PLM)-BT-8.5,V Iyer (PLM)-AR-9.5,S Narine (PLM)-AR-9.0,S A Hasan (PLM)-AR-9.0,V Chakravarthy (PLM)-BL-9.0,L Ferguson (PLM)-BL-9.0,S Mavi (PLM)-BL-8.0,T Seifert-WK-8.0,S Jackson-WK-8.0,G S Mann-BT-8.0,K Nair-BT-8.0,A Russell-AR-9.5,B Cutting-AR-8.5,P Krishna-BL-8.5,T Southee-BL-8.5,K Nagarkoti-BL-8.0,K Yadav-BL-8.0,S Warrier-BL-8.0,P Negi-BL-8.0,H Singh-BL-8.0,V Arora-BL-7.5
+
+
 Date=2021-10-10
 Match=DC vs CSK
 Team1=DC,R Pant (PLM)-WK-9.5,S Dhawan (PLM)-BT-10.0,P Shaw (PLM)-BT-8.5,S Hetmyer (PLM)-BT-8.5,S Iyer (PLM)-BT-8.5,R Patel (PLM)-BT-8.0,A Patel (PLM)-AR-9.0,K Rabada (PLM)-BL-9.0,A Khan (PLM)-BL-9.0,A Nortje (PLM)-BL-8.5,R Ashwin (PLM)-BL-8.5,S Billings-WK-8.0,S Smith-BT-8.5,A Rahane-BT-8.5,V Vinod-BT-8.0,M Stoinis-AR-8.5,L Yadav-AR-8.0,U Yadav-BL-8.5,A Mishra-BL-8.5,I Sharma-BL-8.5,L Meriwala-BL-8.0,K Khejroliya-BL-8.0,P Dubey-BL-8.0,T Curran-BL-8.0,B Dwarshuis-BL-8.0
