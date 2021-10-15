@@ -1,3 +1,9 @@
+Date=2021-10-15
+Match=CSK vs KOL
+Team1=CSK,M Dhoni (PLM)-WK-8.5,F d Plessis (PLM)-BT-10.0,R Gaikwad (PLM)-BT-9.5,A Rayudu (PLM)-BT-8.5,R Uthappa (PLM)-BT-8.0,R Jadeja (PLM)-AR-9.5,D Bravo (PLM)-AR-9.0,M Ali (PLM)-AR-9.0,S Thakur (PLM)-BL-9.0,J Hazlewood (PLM)-BL-8.5,D Chahar (PLM)-BL-8.5,N Jagadeesan-WK-8.0,S Raina-BT-8.5,C Pujara-BT-8.0,C H Nishanth-BT-8.0,M Santner-AR-8.0,K Gowtham-AR-8.0,D Drakes-AR-8.0,B Varma-AR-7.5,I Tahir-BL-8.5,L Ngidi-BL-8.5,K Sharma-BL-8.0,R S Kishore-BL-8.0,K Asif-BL-8.0,H Reddy-BL-8.0
+Team2=KOL,D Karthik (PLM)-WK-8.5,N Rana (PLM)-BT-9.0,R Tripathi (PLM)-BT-9.0,E Morgan (PLM)-BT-8.5,S Gill (PLM)-BT-8.5,S Narine (PLM)-AR-9.5,V Iyer (PLM)-AR-9.5,S A Hasan (PLM)-AR-8.5,L Ferguson (PLM)-BL-9.0,V Chakravarthy (PLM)-BL-9.0,S Mavi (PLM)-BL-8.0,S Jackson-WK-8.0,T Seifert-WK-8.0,K Nair-BT-8.0,G S Mann-BT-8.0,A Russell-AR-9.5,B Cutting-AR-8.5,T Southee-BL-8.5,P Krishna-BL-8.5,H Singh-BL-8.0,P Negi-BL-8.0,S Warrier-BL-8.0,K Yadav-BL-8.0,K Nagarkoti-BL-8.0,V Arora-BL-7.5
+
+
 Date=2021-10-13
 Match=KOL vs DC
 Team1=KOL,D Karthik (PLM)-WK-8.5,R Tripathi (PLM)-BT-9.0,N Rana (PLM)-BT-9.0,S Gill (PLM)-BT-8.5,E Morgan (PLM)-BT-8.5,V Iyer (PLM)-AR-9.5,S Narine (PLM)-AR-9.5,S A Hasan (PLM)-AR-8.5,V Chakravarthy (PLM)-BL-9.0,L Ferguson (PLM)-BL-9.0,S Mavi (PLM)-BL-8.0,T Seifert-WK-8.0,S Jackson-WK-8.0,G S Mann-BT-8.0,K Nair-BT-8.0,A Russell-AR-9.5,B Cutting-AR-8.5,P Krishna-BL-8.5,T Southee-BL-8.5,K Nagarkoti-BL-8.0,K Yadav-BL-8.0,S Warrier-BL-8.0,P Negi-BL-8.0,H Singh-BL-8.0,V Arora-BL-7.5
