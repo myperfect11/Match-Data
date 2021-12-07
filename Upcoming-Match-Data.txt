@@ -1,3 +1,8 @@
+Date=2021-12-07
+Match=REN vs STR
+Team1=REN,S Harper-WK-9.5,A Finch-BT-10.9,M Harvey-BT-8.0,J Seymour-BT-8.0,J Fraser-BT-8.5,M Nabi-AR-9.5,M Perry-AR-8.0,J Merlo-AR-8.0,W Sutherland-AR-8.5,K Richardson-BL-9.0,J Lalor-BL-8.5,J Prestwidge-BL-8.0,J Pattinson-BL-9.0,Z Khan-BL-8.5,R Topley-BL-8.5,C Boyce-BL-8.5,Z Evans-BL-8.0
+Team2=STR,H Nielsen-WK-8.5,R Gibson-BT-8.0,J Weatherald-BT-9.0,J Wells-BT-8.5,T Kelly-BT-8.0,D Drew-BT-8.0, M Short-AR-8.5, L Scott-AR-8.0, R Khan-BL-9.5, W Agar-BL-8.5, G Garton-BL-8.5, P Siddle-BL-9.0,D Worrall-BL-8.5
+
 Date=2021-10-15
 Match=CSK vs KOL
 Team1=CSK,M Dhoni (PLM)-WK-8.5,F d Plessis (PLM)-BT-10.0,R Gaikwad (PLM)-BT-9.5,A Rayudu (PLM)-BT-8.5,R Uthappa (PLM)-BT-8.0,R Jadeja (PLM)-AR-9.5,D Bravo (PLM)-AR-9.0,M Ali (PLM)-AR-9.0,S Thakur (PLM)-BL-9.0,J Hazlewood (PLM)-BL-8.5,D Chahar (PLM)-BL-8.5,N Jagadeesan-WK-8.0,S Raina-BT-8.5,C Pujara-BT-8.0,C H Nishanth-BT-8.0,M Santner-AR-8.0,K Gowtham-AR-8.0,D Drakes-AR-8.0,B Varma-AR-7.5,I Tahir-BL-8.5,L Ngidi-BL-8.5,K Sharma-BL-8.0,R S Kishore-BL-8.0,K Asif-BL-8.0,H Reddy-BL-8.0
